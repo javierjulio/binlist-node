@@ -25,7 +25,7 @@ const binlistFind = function(bin) {
       headers: { 'Accept-Version': '3', }
     })
   .then(response => {
-    if (response.status == 404) {
+    if (response.status === 404) {
       throw new NotFoundError(`Bin ${bin} not found`);
     } else if (response.status >= 400) {
       throw new Error("Bad response from server");
