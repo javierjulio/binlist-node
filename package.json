@@ -6,6 +6,7 @@
   "module": "",
   "scripts": {
     "build": "rollup --config",
+    "lint": "eslint .",
     "test": "jest"
   },
   "keywords": [],
