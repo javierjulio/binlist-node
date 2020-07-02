@@ -15,5 +15,5 @@
     "no-undef": ["off"],
     "no-unused-vars": ["warn", { "vars": "all", "args": "none", "ignoreRestSiblings": true }]
   },
-  "ignorePatterns": ["/dist", "/node_modules", "/coverage", "/Untitled-*.js", "tasks/_utils.js"]
+  "ignorePatterns": ["/dist", "/node_modules", "/coverage"]
 }
