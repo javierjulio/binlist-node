@@ -21,7 +21,7 @@
     "esm": "^3.2.25"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.10.3",
+    "@babel/preset-env": "^7.10.4",
     "@pollyjs/adapter-node-http": "^5.0.0",
     "@pollyjs/core": "^5.0.0",
     "@pollyjs/persister-fs": "^5.0.0",
