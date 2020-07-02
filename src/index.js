@@ -1,6 +1,6 @@
 import fetch from 'cross-fetch';
 import NotFoundError from './errors/not_found_error';
-import RateLimitError from './errors/rate_limit_error';
+// import RateLimitError from './errors/rate_limit_error';
 
 // const binlistFind = async function(bin) {
 //   const result = await fetch(`https://lookup.binlist.net/${bin}`)
