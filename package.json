@@ -1,7 +1,7 @@
 {
   "name": "binlist-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "A browser or Node.js client library for the Binlist.net service.",
   "main": "",
   "module": "",
   "scripts": {
@@ -9,8 +9,12 @@
     "lint": "eslint .",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javierjulio/binlist-node.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Javier Julio",
   "license": "ISC",
   "dependencies": {
     "cross-fetch": "^3.0.5",
