@@ -29,7 +29,7 @@
     "@rollup/plugin-node-resolve": "^9.0.0",
     "eslint": "^7.6.0",
     "jest": "^26.4.0",
-    "rollup": "^2.23.1",
+    "rollup": "^2.25.0",
     "setup-polly-jest": "^0.9.1"
   },
   "jest": {
