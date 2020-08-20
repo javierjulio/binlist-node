@@ -28,7 +28,7 @@
     "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "eslint": "^7.7.0",
-    "jest": "^26.4.0",
+    "jest": "^26.4.1",
     "rollup": "^2.26.4",
     "setup-polly-jest": "^0.9.1"
   },
