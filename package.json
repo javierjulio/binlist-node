@@ -27,7 +27,7 @@
     "@pollyjs/persister-fs": "^5.0.0",
     "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
-    "eslint": "^7.10.0",
+    "eslint": "^7.11.0",
     "jest": "^26.5.2",
     "rollup": "^2.29.0",
     "setup-polly-jest": "^0.9.1"
