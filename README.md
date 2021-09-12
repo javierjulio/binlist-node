@@ -8,8 +8,10 @@ TBD
 
 ## Development
 
-Build: `npm run build`
-Tests: `npm run test`
+1. Install [Node.js v12+](https://nodejs.org/) and Yarn
+2. `yarn install`
+3. `npm test`
+4. `npm run build`
 
 ## Resources
 
