@@ -13,6 +13,9 @@ Tests: `npm run test`
 
 ## Resources
 
+Packages for **both Node and Browser JS**
+https://github.com/yargs/yargs-parser
+
 Bitly library using Typescript
 https://github.com/tanepiper/node-bitly/blob/v7.x.x/src/bitly.ts
 
