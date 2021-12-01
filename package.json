@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.4",
-    "@pollyjs/adapter-node-http": "^5.1.0",
+    "@pollyjs/adapter-node-http": "^6.0.0",
     "@pollyjs/core": "^5.1.0",
     "@pollyjs/persister-fs": "^5.0.0",
     "@rollup/plugin-commonjs": "^21.0.1",
