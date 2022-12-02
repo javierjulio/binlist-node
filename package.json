@@ -24,7 +24,7 @@
     "@babel/preset-env": "^7.20.2",
     "@pollyjs/adapter-node-http": "^5.1.0",
     "@pollyjs/core": "^5.1.0",
-    "@pollyjs/persister-fs": "^5.0.0",
+    "@pollyjs/persister-fs": "^6.0.5",
     "@rollup/plugin-commonjs": "^23.0.3",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "eslint": "^8.28.0",
